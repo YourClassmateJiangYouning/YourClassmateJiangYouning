@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Yongxing Jiang (小江 / 小海豚 / 江宥柠)</h1>
+<h1 align="center">Hi there 👋, I'm Yongxing Jiang. </h1>
 <h3 align="center">Undergraduate Student @ SJTU | AI & Embodied Intelligence Enthusiast</h3>
 
 <p align="center">
